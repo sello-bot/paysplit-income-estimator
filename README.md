@@ -590,15 +590,12 @@ This meets regulatory requirements for "explainable AI" in financial services.
 ### Contact
 
 For questions or issues:
-- Email: [your-email@paysplit.com]
+- Email: [skgole6@gmail.coml@paysplit.com]
 - Slack: #paysplit-tech
-- Repository: [github-link]
+- Repository: [https://github.com/sello-bot/paysplit-income-estimator]
 
 ---
 
-## 📝 License
-
-[Your License Here]
 
 ---
 
